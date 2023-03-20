@@ -2,7 +2,7 @@
  * Change the index and namespace to your own
  */
 
-const PINECONE_INDEX_NAME = 'langchainjsfundamentals';
+const PINECONE_INDEX_NAME = 'tkuddah';
 
 const PINECONE_NAME_SPACE = 'demo'; //namespace is optional for your vectors
 
